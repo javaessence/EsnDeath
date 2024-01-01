@@ -1,0 +1,5 @@
+name: EsnDeath
+version: '${project.version}'
+main: esn.essence.death.esndeath.EsnDeath
+api-version: '1.16'
+authors: [ essence ]
