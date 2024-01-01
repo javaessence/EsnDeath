@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bca8b005-6502-4a97-ae98-31674269634c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZqSnXrSv0IUa2QMoj9OMZM4GpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Games/HoldPickaxe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="EsnDeath package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca8b005-6502-4a97-ae98-31674269634c" name="Changes" comment="" />
+      <created>1703148288429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703148288429</updated>
+      <workItem from="1703148290973" duration="2000" />
+      <workItem from="1703171553717" duration="775000" />
+      <workItem from="1703173417113" duration="912000" />
+      <workItem from="1703248374799" duration="2133000" />
+      <workItem from="1703251768561" duration="188000" />
+      <workItem from="1703257552690" duration="553000" />
+      <workItem from="1703258469174" duration="129000" />
+      <workItem from="1703258657405" duration="1241000" />
+      <workItem from="1703324896367" duration="601000" />
+      <workItem from="1703346432871" duration="1243000" />
+      <workItem from="1703402370871" duration="779000" />
+      <workItem from="1703403702700" duration="374000" />
+      <workItem from="1703404558787" duration="303000" />
+      <workItem from="1703405173259" duration="4668000" />
+      <workItem from="1703412329313" duration="560000" />
+      <workItem from="1703413744508" duration="382000" />
+      <workItem from="1703414735934" duration="208000" />
+      <workItem from="1703416677733" duration="750000" />
+      <workItem from="1703418163335" duration="1800000" />
+      <workItem from="1703420928789" duration="1076000" />
+      <workItem from="1703423361191" duration="1315000" />
+      <workItem from="1703513200758" duration="507000" />
+      <workItem from="1703766004357" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
